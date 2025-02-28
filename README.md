@@ -11,9 +11,12 @@ https://data.london.gov.uk/download/public-health-outcomes-framework-indicators/
 
 ### 1. **Data Collection & Cleaning**
    - **Dataset Acquisition**: Obtained a dataset containing health indicators and life expectancy data for multiple countries.
+
    - **Data Cleaning**:
      - Removed inconsistencies, errors, and duplicate entries from the dataset.
      - Cleaned and ensured all data was in a consistent format.
+    
+     - ![Screenshot 2025-02-28 110708](https://github.com/user-attachments/assets/079690f9-33db-44ca-8d66-956c9ecd9814)
      - Performed data transformation to handle missing values and correct any anomalies using the **Power Query Editor**.
 
 ### 2. **Data Transformation**
