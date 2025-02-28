@@ -60,8 +60,8 @@ Here are some of the visuals I created to illustrate the analysis:
 
 ### Bar Chart and Tree Map Example:
 ![Screenshot 2025-02-27 174839](https://github.com/user-attachments/assets/0d7c56ad-32e1-4ec9-befe-d38573306905)
-!https://app.powerbi.com/groups/me/reports/d6601c9b-0c15-45ed-9d28-ce84d897ee55/11f0776f739b23699481?experience=power-bi!
-
+https://app.powerbi.com/groups/me/reports/d6601c9b-0c15-45ed-9d28-ce84d897ee55/742539d7e21df461f312?experience=power-bi
+![image](https://github.com/user-attachments/assets/a4d5551d-1f7e-4f27-abf2-e3bc9ec156b0)
 
 ## 🛠 Tools & Techniques Used:
 - **Power BI**: For data import, transformation, and visualization.
